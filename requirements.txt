@@ -1,0 +1,6 @@
+supabase
+google-genai
+reportlab
+arabic-reshaper
+python-bidi
+requests
