@@ -1,0 +1,8 @@
+streamlit
+authlib
+supabase
+google-generativeai
+reportlab
+arabic-reshaper
+python-bidi
+requests
