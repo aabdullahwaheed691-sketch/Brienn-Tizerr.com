@@ -1,7 +1,0 @@
-streamlit
-supabase
-google-generativeai
-reportlab
-arabic-reshaper
-python-bidi
-requests
